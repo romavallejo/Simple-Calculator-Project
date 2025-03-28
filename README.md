@@ -1,5 +1,5 @@
 # Simple Calculator Project by Rodrigo Martínez V.
- 
+ ![alt text](https://github.com/romavallejo/Simple-Calculator-Project/blob/main/calculator.PNG?raw=true)
 ## About the project
 This is a very simple project made using **HTML**, **CSS**, and just a little bit of **JavaScript**. 
 ## Functionality
